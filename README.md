@@ -429,3 +429,8 @@
 
     # ------------------------------------------------------------
 ```
+
+## Kendala
+
+- Teman saya Naufal Faadhilah mengalami kesulitan dalam re-import GNS3 nya (layarnya hanya hitam).
+- Salah satu teman saya memiliki masalah dengan orang tuanya.
