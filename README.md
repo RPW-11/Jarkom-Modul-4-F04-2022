@@ -3,7 +3,7 @@
 ## Anggota
 
 - Hilmi Zharfan Rachmadi - 5025201268
-- Ida Bagus Kade Rainata Putra Wibawa - 5025201235
+- Ida Bagus Kade Rainata Putra Wibawa - 5025201235 (Mengerjakan Labelling, Perhitungan CIDR, Perhitungan VLSM, Implementasi di Cisco Packet Tracer)
 - Naufal Faadhilah - 5025201221
 
 ## Konfigurasi GNS3
