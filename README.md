@@ -1,10 +1,12 @@
 # Jarkom-Modul-4-F04-2022
 
 ## Anggota
-
-- Hilmi Zharfan Rachmadi - 5025201268
-- Ida Bagus Kade Rainata Putra Wibawa - 5025201235 (Mengerjakan Labelling, Perhitungan CIDR, Perhitungan VLSM, Implementasi di Cisco Packet Tracer)
-- Naufal Faadhilah - 5025201221
+# Anggota
+Nama | NRP | Kontribusi |
+--- | --- | --- |
+Hilmi Zharfan Rachmadi | 5025201268 | Mengerjakan Implementasi VLSM di GNS3 |
+Ida Bagus Kade Rainata Putra Wibawa | 5025201235 | Mengerjakan Labelling, Perhitungan CIDR, Perhitungan VLSM, Implementasi di Cisco Packet Tracer |
+Naufal Faadhilah | 5025201221 | Lapres |
 
 ## Konfigurasi GNS3
 
